@@ -1,5 +1,7 @@
 # Sentiment Analysis Using Cross-Lingual Transfer Learning
+
 📌 Project Overview
+
 Sentiment Analysis is a widely used Natural Language Processing (NLP) task that helps determine whether a given text expresses positive, negative, or neutral sentiment. However, most sentiment analysis models are trained on labeled data in a single language, making them ineffective for languages with limited annotated datasets.
 
 This project explores Cross-Lingual Transfer Learning to improve sentiment analysis across multiple languages, leveraging pre-trained multilingual models to minimize the need for labeled data in low-resource languages.
