@@ -13,6 +13,7 @@ Fine-tune pre-trained multilingual transformers such as mBERT, XLM-R, or mT5 on 
 Evaluate the model’s effectiveness on different languages using various performance metrics.
 
 🛠 Methodology
+
 1️⃣ Data Collection & Preprocessing
 Collect sentiment-labeled datasets from sources like:
 IMDb (Movie Reviews)
