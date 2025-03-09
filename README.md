@@ -22,6 +22,7 @@ Preprocess the text by:
 Removing special characters, stopwords, and punctuations.
 Tokenizing and normalizing the text.
 Encoding labels (positive, negative, neutral).
+
 2️⃣ Model Selection & Training
 Choose pre-trained multilingual models, such as:
 mBERT (Multilingual BERT)
@@ -29,6 +30,7 @@ XLM-R (Cross-lingual Language Model RoBERTa)
 mT5 (Multilingual T5)
 Fine-tune the model using sentiment-labeled data in one source language (e.g., English).
 Use Cross-Lingual Transfer Learning to adapt the trained model for other languages without requiring large labeled datasets.
+
 3️⃣ Evaluation & Performance Metrics
 Test the model’s performance on multiple target languages.
 Use standard evaluation metrics:
@@ -36,6 +38,7 @@ Accuracy
 Precision, Recall, F1-score
 Confusion Matrix for error analysis
 Compare the performance of monolingual vs. cross-lingual models.
+
 📌 Expected Outcomes
 A robust, multilingual sentiment analysis model that works for low-resource languages.
 Reduced dependency on large labeled datasets for every language.
